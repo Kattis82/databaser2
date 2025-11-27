@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/37832197-8f51-4ae5-84c4-95fcee1be8e7/create_database.sql" value="37832197-8f51-4ae5-84c4-95fcee1be8e7" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b512b071-e455-48bb-89c3-46c9a09dcb78/console.sql" value="b512b071-e455-48bb-89c3-46c9a09dcb78" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b512b071-e455-48bb-89c3-46c9a09dcb78/create_tables.sql" value="b512b071-e455-48bb-89c3-46c9a09dcb78" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b512b071-e455-48bb-89c3-46c9a09dcb78/statements.sql" value="b512b071-e455-48bb-89c3-46c9a09dcb78" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b512b071-e455-48bb-89c3-46c9a09dcb78/övning_joins.sql" value="b512b071-e455-48bb-89c3-46c9a09dcb78" />
+  </component>
+</project>
